@@ -1,2 +1,4 @@
 # learnscripting
-Practice bash and python scripting
+Learning Git
+bash and python scripting 
+
